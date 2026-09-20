@@ -1,13 +1,18 @@
 # python-def-function
-Spa Reservation System
 
-Description
+
+Description:
+
 This repository contains my Python activity demonstrating the use of a def function.
 
-Program
+
+Program:
+
 A simple Python program that allows users to make a spa reservation and calculate the total price.
 
-Features
+
+Features:
+
 - Enter customer name
 - Choose spa services
 - Choose reservation time
@@ -15,5 +20,6 @@ Features
 - Display reservation details
 - Confirm reservation
 
-File
+
+File:
 - "def_activity.py" – contains the Python program for the Spa Reservation System.
