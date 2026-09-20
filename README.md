@@ -18,4 +18,4 @@ A simple Python program that allows users to make a spa reservation and calculat
 
 
 ## File
-- "def_activity.py" – contains the Python program for the Spa Reservation System.
+def_activity.py
